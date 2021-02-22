@@ -1,4 +1,4 @@
-# API_Keys_Generator_Node
+# API Keys Generator
 
 ## Technologies Used
 * Server: Node JS
